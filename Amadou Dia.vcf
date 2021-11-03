@@ -1,0 +1,18 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iOS 14.0//EN
+N:Dia;Amadou;;;
+FN:Amadou Dia
+EMAIL;type=INTERNET;type=HOME;type=pref:diamadou@icloud.con
+item1.ADR;type=HOME;type=pref:;;23 Route De Saint Denis;Deuil La Barre;;951
+ 70;France
+item1.X-ABADR:fr
+BDAY;value=date:1995-06-21
+X-SOCIALPROFILE;type=twitter;x-user=diamadou_dia:http://twitter.com/diamado
+ u_dia
+X-SOCIALPROFILE;type=facebook;x-user=amadou dia :http://www.facebook.com/am
+ adou%20dia%20
+REV:2020-10-01T09:22:40Z
+X-IMAGETYPE:PHOTO
+X-IMAGEHASH:7nlpLMPTVViv8do+aPsIkQ==
+END:VCARD
